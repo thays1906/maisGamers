@@ -1,0 +1,9 @@
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\bin\Debug\MaisGamers.exe.config
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\bin\Debug\MaisGamers.exe
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\bin\Debug\MaisGamers.pdb
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\obj\Debug\MaisGamers.csprojResolveAssemblyReference.cache
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\obj\Debug\MaisGamers.Form1.resources
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\obj\Debug\MaisGamers.Properties.Resources.resources
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\obj\Debug\MaisGamers.csproj.GenerateResource.Cache
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\obj\Debug\MaisGamers.exe
+C:\Users\alana_000\Documents\GitHub\maisGamers\App\MaisGamers\MaisGamers\obj\Debug\MaisGamers.pdb
